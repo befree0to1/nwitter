@@ -1,0 +1,5 @@
+using "npm install --save firebase"
+2.3 error : lastest version => https://firebase.google.com/docs/auth/web/password-auth?authuser=1#create_a_password-based_account
+npm install uuid = 랜덤 식별자 생성 
+await error시 async 확인
+
