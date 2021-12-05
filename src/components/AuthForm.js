@@ -5,7 +5,7 @@ import {
   signInWithEmailAndPassword,
 } from "firebase/auth";
 
-const inputStyles = {};
+// const inputStyles = {};
 
 const AuthForm = () => {
   const [email, setEmail] = useState("");
